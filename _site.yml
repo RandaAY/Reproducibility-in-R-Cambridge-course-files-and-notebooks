@@ -1,0 +1,13 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "analysis2"
+      href: analysis2.html
+    - text: "results"
+      href: results.html
